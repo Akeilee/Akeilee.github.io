@@ -8,4 +8,30 @@
     text-align: center;
     background-color: #3c0bea;
     background-image: linear-gradient(145deg, #15c4cd, #1352b4f2);
+    padding: 3.5rem 6rem;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2.5rem;
+    margin-bottom: -0.5rem;
+    font-weight: bold;
+    color: #0686b8;
+}
+
+.main-content {
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.05rem;
+}
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    color: #3b4246;
+}
+
+a {
+    color: #2da5fd;
+    text-decoration: none;
 }
