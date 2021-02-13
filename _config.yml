@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Jane Lee]
 description: [Hello! I am currently doing my MSc in Game Engineering and this is my portfolio.]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+show_downloads: ["true"]
