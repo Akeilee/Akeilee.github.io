@@ -10,8 +10,8 @@ Clicking on the picture will take you to its respective repository/playable game
 <a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" alt = "game" width = "300"></a>
 
 <details>
-<summary>**Click for more details**</summary>
-<br />
+<summary><strong>Click for more details<strong></summary>
+<p>
 Fantasy Rhythm is a short 2D game that was made for my undergraduate games development module using Unity. The main concept is to battle monsters through a rhythm game. Inspiration for it came from different rhythm games such as Dance Dance Revolution and Project Diva. This assignment demonstrates game designing and the ability to use game engines.<br /><br />   
 
 The songs and styles chosen are aimed towards a cartoon theme as it creates an energetic and playful feel throughout the gameplay. Designs for the assets came from various video games and anime references.<br /><br />
@@ -22,7 +22,7 @@ Future features would include a levelling system where you would be able to unlo
 
 Listed below are the past prototypes for the game:<br />
 <a href = "https://akeilee.github.io/Rhythm-Prototype-Initial/">Initial Prototype</a><br />
-<a href = "https://akeilee.github.io/Rhythm-Prototype-Level/">Level 1 Prototype</a><br />
+<a href = "https://akeilee.github.io/Rhythm-Prototype-Level/">Level 1 Prototype</a><br /></p>
 </details>
 
 ## MSc Game Graphics
@@ -44,7 +44,7 @@ These can be toggled with keybinds.<br /><br />
 
 Lighting is created with deferred rendering and a shadow map is used for real-time shadowing.<br /><br />
 
-In the future I would like to attempt to create reflections on surfaces by using texture mapping.</p>
+In the future I would like to attempt to create reflections on surfaces by using texture mapping.<br /></p>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5CmZtc3gN7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </details>
@@ -95,7 +95,7 @@ The user is able to generate different size mazes and they are able to save thes
 For this piece of coursework I was asked to create a simple scene that had different graphical shaders affect a cube in real time. I used C++, OpenGL and its associated shader language, GLSL.
 
 Numerous shaders were used such as a: 
-Geometry shader - invoked once per primative and takes in the vertices of the cube and outputs new primitives that form new smaller cubes,
+Geometry shader - invoked once per primitive and takes in the vertices of the cube and outputs new primitives that form new smaller cubes,
 Tessellation shader - invoked once per vertex and creates new triangle primitives to distort the cube based on a heightmap, 
 Lighting shader - creating a spotlight effect on the cube.
 <br />
@@ -115,7 +115,7 @@ The coursework spec was to render a 2D space scene consisting of triangles, line
   
 This GUI was created during a two week sprint for the Engineering Society's entry into a tournament. The main sketch was drawn up by the design team in the society and I was then tasked with creating the home screen in python. 
   
-Interactable buttons consists of the home, info, help and logo button. Clickling on them will only print to the console.
+Interactable buttons consists of the home, info, help and logo button. Clicking on them will only print to the console.
 
 As this was my first time learning and using Python I was unable to create a more detailed GUI. For future projects, I would like to add more interactable features. 
 <br />
