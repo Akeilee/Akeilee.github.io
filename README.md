@@ -1,14 +1,11 @@
-## Projects
+# Projects
 
 The projects below were created during my time at university. Clicking on the picture will take you to its respective repository/playable game link. Each project's repository details a list of features and keybinds used. 
 <br />
 
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe> 
 
-### Fantasy Rhythm
-<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/gameplayGif.gif" alt = "gameGif" width = "250"></a>
+## Fantasy Rhythm
+<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/gameplayGif.gif" alt = "gameGif" width = "250"/></a>
 
 Fantasy Rhythm is a short 2D game that was made for my undergraduate games development module using Unity. The main concept is to battle monsters through a rhythm game. Inspiration for it came from different rhythm games such as Dance Dance Revolution and Project Diva. This assignment demonstrates game designing and the ability to use game engines.   
 
@@ -27,11 +24,10 @@ The initial prototype has a short sample gameplay whilst the Level 1 prototype h
 <br />
 
 
-### MSc Game Graphics
+## MSc Game Graphics
 <a href = "https://github.com/Akeilee/Game-Graphics"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/textures.PNG" alt = "graphics" width = "250"></a>
 
-[Video Demonstration](https://youtu.be/5CmZtc3gN7A)
-
+<iframe width="420" src="https://youtu.be/5CmZtc3gN7A"></iframe> 
 
 My game graphics coursework demonstrates a rendering of a graphical scene using techniques learned through my graphics module. The scene is in a cyberpunk style and made using C++ and OpenGL. It contains a large landscape with numerous graphical elements being rendered. The program starts with an automatic camera but it can be toggled off using '1'. 
 
@@ -49,11 +45,10 @@ In the future I would like to attempt to create reflections on surfaces by using
 <br />
 
 
-### MSc Physics and AI
+## MSc Physics and AI
 <a href = "https://github.com/Akeilee/Game-Tech"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/main.gif" alt = "physics" width = "250"></a>
 
-[Video Demonstration](https://youtu.be/urHL-WkVB7w)
-
+<iframe width="420" src="https://youtu.be/urHL-WkVB7w"></iframe> 
 
 For this project I developed a simple game that shows off physics and AI knowledge that I have learned throughout my game technology module. The aim of the game is for the player to navigate around a map filled with obstacles, to try and reach the finish line. They will only lose if their health reaches zero. 
 
@@ -66,7 +61,7 @@ The most challenging part of this project was figuring out the capsule collision
 <br />
 
 
-### MSc Game Programming
+## MSc Game Programming
 <a href = "https://github.com/Akeilee/Game-Programming-2"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/overallShort.PNG" alt = "maze" width = "250"></a>
 
 This small program was created with C++ to demonstrate my ability to use different search algorithms to create an ASCII maze and then solve it. 
@@ -82,12 +77,13 @@ The user is able to generate different size mazes and they are able to save thes
 <br />
 
 
-### Other Work
+## Other Work
 
 <details>
 <summary>Click to expand!</summary>
-  
-### OpenGL Shaders
+
+<br />  
+## OpenGL Shaders
 <a href = "https://github.com/Akeilee/3223-Graphics-2"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/blendCube.gif" alt = "shaders" width = "250"></a>
 
 [Video Demonstration]()
@@ -102,7 +98,7 @@ Lighting shader - creating a spotlight effect on the cube.
 <br />
   
   
-### OpenGL Graphics
+## OpenGL Graphics
 <a href = "https://github.com/Akeilee/3223-Graphics-1"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/graphicsSpace.png" alt = "rasterisation" width = "250"></a>
 
 [Video Demonstration]()  
@@ -114,7 +110,7 @@ The coursework spec was to render a 2D space scene consisting of triangles, line
 <br />
   
   
-### Python GUI
+## Python GUI
 <a href = "https://github.com/Akeilee/Rover-Gui"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/screenshot.jpg" alt = "roverScreenshot" width = "250"></a>
   
 This GUI was created during a two week sprint for the Engineering Society's entry into a tournament. The main sketch was drawn up by the design team in the society and I was then tasked with creating the home screen in python. 
@@ -125,7 +121,7 @@ As this was my first time learning and using Python I was unable to create a mor
 <br />
   
   
-### Website 
+## Website 
 <a href = "https://github.com/Akeilee/1026-Website"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/website.PNG" alt = "websiteScreenshot" width = "250"></a>
   
 This interactive example website was made for my 1026 Website design coursework. 
