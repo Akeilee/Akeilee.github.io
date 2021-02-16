@@ -7,7 +7,7 @@ Clicking on the picture will take you to its respective repository/playable game
 
 ## Fantasy Rhythm
 
-<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" alt = "game" width = "300"></a>
+<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" alt = "game" width = "350"></a>
 
 <details>
 	<summary><strong>More details</strong></summary>
@@ -33,7 +33,7 @@ Future features would include a levelling system where you would be able to unlo
 
 
 ## MSc Game Graphics
-<a href = "https://github.com/Akeilee/Game-Graphics"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/lighting.gif" alt = "graphics" width = "300"></a>
+<a href = "https://github.com/Akeilee/Game-Graphics"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/lighting.gif" alt = "graphics" width = "350"></a>
 
 <details>
 	<summary><strong>More details</strong></summary>
@@ -60,7 +60,7 @@ In the future I would like to attempt to create reflections on surfaces by using
 
 
 ## MSc Physics and AI
-<a href = "https://github.com/Akeilee/Game-Tech"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/main.gif" alt = "physics" width = "300"></a>
+<a href = "https://github.com/Akeilee/Game-Tech"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/main.gif" alt = "physics" width = "350"></a>
 
 <details>
 	<summary><strong>More details</strong></summary>
@@ -80,7 +80,7 @@ The most challenging part of this project was figuring out the capsule collision
 
 
 ## MSc Game Programming
-<a href = "https://github.com/Akeilee/Game-Programming-2"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/overallShort.PNG" alt = "maze" width = "300"></a>
+<a href = "https://github.com/Akeilee/Game-Programming-2"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/overallShort.PNG" alt = "maze" width = "350"></a>
 
 <details>
 	<summary><strong>More details</strong></summary>
@@ -99,7 +99,7 @@ The user is able to generate different size mazes and they are able to save thes
 
 
 ## OpenGL Shaders
-<a href = "https://github.com/Akeilee/3223-Graphics-2"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/blendCube.gif" alt = "shaders" width = "300"></a>
+<a href = "https://github.com/Akeilee/3223-Graphics-2"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/blendCube.gif" alt = "shaders" width = "350"></a>
 
 <details>
 	<summary><strong>More details</strong></summary>
@@ -120,7 +120,7 @@ Numerous shaders were used such as:<br />
   
   
 ## OpenGL Graphics
-<a href = "https://github.com/Akeilee/3223-Graphics-1"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/graphicsSpace.png" alt = "rasterisation" width = "300"></a>
+<a href = "https://github.com/Akeilee/3223-Graphics-1"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/graphicsSpace.png" alt = "rasterisation" width = "350"></a>
 
 <details>
 	<summary><strong>More details</strong></summary>
@@ -130,12 +130,12 @@ This project shows the various graphical primitives and rasterisation techniques
 The coursework spec was to render a 2D space scene consisting of triangles, lines and points using C++ and OpenGL. There is usage of different depth buffer tests and alpha blending states.<br /><br />
 </div>
 </details>  
-<br /> 
 
-# Other Work 
-<hr> 
+
+<hr>
+# Other Work  
 ## Python GUI
-<a href = "https://github.com/Akeilee/Rover-Gui"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/screenshot.jpg" alt = "roverScreenshot" width = "300"></a>
+<a href = "https://github.com/Akeilee/Rover-Gui"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/screenshot.jpg" alt = "roverScreenshot" width = "350"></a>
 
 <details>
 	<summary><strong>More details</strong></summary>
@@ -150,7 +150,7 @@ As this was my first time learning and using Python I was unable to create a mor
   
   
 ## Website 
-<a href = "https://github.com/Akeilee/1026-Website"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/website.PNG" alt = "websiteScreenshot" width = "300"></a>
+<a href = "https://github.com/Akeilee/1026-Website"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/website.PNG" alt = "websiteScreenshot" width = "350"></a>
 
 <details>
 	<summary><strong>More details</strong></summary>
