@@ -5,13 +5,13 @@ The projects below were created during my time at university. Clicking on the pi
 
 
 ## Fantasy Rhythm
-<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" width = "250"></a>
+<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" alt = "game" width = "300"></a>
 
 
 Fantasy Rhythm is a short 2D game that was made for my undergraduate games development module using Unity. The main concept is to battle monsters through a rhythm game. Inspiration for it came from different rhythm games such as Dance Dance Revolution and Project Diva. This assignment demonstrates game designing and the ability to use game engines.   
 
 The songs and styles chosen are aimed towards a cartoon theme as it creates an energetic and playful feel throughout the gameplay. Designs for the assets came from various video games and anime references.
-<a name = "design"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/assets.png" width = "200"></a> 
+<a name = "design"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/assets.png" width = "300"></a> 
 
 The gameplay is arrow key inputs, in time with the rhythm. There are three different keypresses: normal, hold and double keys. Maintaining a combo will increment the multiplier score.
 
@@ -26,9 +26,9 @@ The initial prototype has a short sample gameplay whilst the Level 1 prototype h
 
 
 ## MSc Game Graphics
-<a href = "https://github.com/Akeilee/Game-Graphics"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/textures.PNG" alt = "graphics" width = "250"></a>
+<a href = "https://github.com/Akeilee/Game-Graphics"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/textures.PNG" alt = "graphics" width = "300"></a>
 
-<iframe width="420" src="https://youtube/5CmZtc3gN7A"></iframe> 
+<iframe width="420" src="https://www.youtube.com/embed/5CmZtc3gN7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My game graphics coursework demonstrates a rendering of a graphical scene using techniques learned through my graphics module. The scene is in a cyberpunk style and made using C++ and OpenGL. It contains a large landscape with numerous graphical elements being rendered. The program starts with an automatic camera but it can be toggled off using '1'. 
 
@@ -47,9 +47,9 @@ In the future I would like to attempt to create reflections on surfaces by using
 
 
 ## MSc Physics and AI
-<a href = "https://github.com/Akeilee/Game-Tech"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/main.gif" alt = "physics" width = "250"></a>
+<a href = "https://github.com/Akeilee/Game-Tech"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/main.gif" alt = "physics" width = "300"></a>
 
-<iframe width="420" src="https://youtube/urHL-WkVB7w"></iframe> 
+<iframe width="420" src="https://www.youtube.com/embed/urHL-WkVB7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For this project I developed a simple game that shows off physics and AI knowledge that I have learned throughout my game technology module. The aim of the game is for the player to navigate around a map filled with obstacles, to try and reach the finish line. They will only lose if their health reaches zero. 
 
@@ -63,7 +63,7 @@ The most challenging part of this project was figuring out the capsule collision
 
 
 ## MSc Game Programming
-<a href = "https://github.com/Akeilee/Game-Programming-2"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/overallShort.PNG" alt = "maze" width = "250"></a>
+<a href = "https://github.com/Akeilee/Game-Programming-2"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/overallShort.PNG" alt = "maze" width = "300"></a>
 
 This small program was created with C++ to demonstrate my ability to use different search algorithms to create an ASCII maze and then solve it. 
 
@@ -78,17 +78,16 @@ The user is able to generate different size mazes and they are able to save thes
 <br />
 
 
-## Other Work
+# Other Work
 
 <details>
 <summary>Click to expand!</summary>
 
 <br />  
 ## OpenGL Shaders
-<a href = "https://github.com/Akeilee/3223-Graphics-2"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/blendCube.gif" alt = "shaders" width = "250"></a>
+<a href = "https://github.com/Akeilee/3223-Graphics-2"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/blendCube.gif" alt = "shaders" width = "300"></a>
 
-[Video Demonstration]()
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FRGN_cY4HNw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For this piece of coursework I was asked to create a simple scene that had different graphical shaders affect a cube in real time. I used C++, OpenGL and its associated shader language, GLSL.
 
@@ -100,10 +99,7 @@ Lighting shader - creating a spotlight effect on the cube.
   
   
 ## OpenGL Graphics
-<a href = "https://github.com/Akeilee/3223-Graphics-1"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/graphicsSpace.png" alt = "rasterisation" width = "250"></a>
-
-[Video Demonstration]()  
-
+<a href = "https://github.com/Akeilee/3223-Graphics-1"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/graphicsSpace.png" alt = "rasterisation" width = "300"></a>
 
 This project shows the various graphical primitives and rasterisation techniques learned from my 3223 Graphics module. 
 
@@ -112,7 +108,7 @@ The coursework spec was to render a 2D space scene consisting of triangles, line
   
   
 ## Python GUI
-<a href = "https://github.com/Akeilee/Rover-Gui"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/screenshot.jpg" alt = "roverScreenshot" width = "250"></a>
+<a href = "https://github.com/Akeilee/Rover-Gui"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/screenshot.jpg" alt = "roverScreenshot" width = "300"></a>
   
 This GUI was created during a two week sprint for the Engineering Society's entry into a tournament. The main sketch was drawn up by the design team in the society and I was then tasked with creating the home screen in python. 
   
@@ -123,7 +119,7 @@ As this was my first time learning and using Python I was unable to create a mor
   
   
 ## Website 
-<a href = "https://github.com/Akeilee/1026-Website"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/website.PNG" alt = "websiteScreenshot" width = "250"></a>
+<a href = "https://github.com/Akeilee/1026-Website"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/website.PNG" alt = "websiteScreenshot" width = "300"></a>
   
 This interactive example website was made for my 1026 Website design coursework. 
   
