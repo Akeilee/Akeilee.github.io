@@ -25,9 +25,9 @@ Future features would include a levelling system where you would be able to unlo
 <a href = "https://akeilee.github.io/Rhythm-Prototype-Level/">Level 1 Prototype</a><br /><br />
 
 <i>Repositories:</i><br />
-<a href = "https://akeilee.github.io/Rhythm-Prototype-Initial/">Fantasy Rhythm Repo</a><br />
-<a href = "https://akeilee.github.io/Rhythm-Prototype-Level/">Level 1 Repo</a><br />
-<a href = "https://akeilee.github.io/Rhythm-Prototype-Level/">Initial Prototype Repo</a><br /><br />
+<a href = "https://github.com/Akeilee/FantasyRhythm">Fantasy Rhythm Repo</a><br />
+<a href = "https://github.com/Akeilee/Rhythm-Prototype-Level">Level 1 Repo</a><br />
+<a href = "https://github.com/Akeilee/Rhythm-Prototype-Initial">Initial Prototype Repo</a><br /><br />
 </div>
 </details>
 
