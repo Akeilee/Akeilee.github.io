@@ -130,6 +130,7 @@ This project shows the various graphical primitives and rasterisation techniques
 The coursework spec was to render a 2D space scene consisting of triangles, lines and points using C++ and OpenGL. There is usage of different depth buffer tests and alpha blending states.<br /><br />
 </div>
 </details>  
+<br />
 
 
 <hr>
