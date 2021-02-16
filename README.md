@@ -29,6 +29,7 @@ Future features would include a levelling system where you would be able to unlo
 <a href = "https://akeilee.github.io/Rhythm-Prototype-Level/">Initial Prototype Repo</a><br /><br />
 </div>
 </details>
+<br />
 
 
 ## MSc Game Graphics
@@ -56,6 +57,7 @@ In the future I would like to attempt to create reflections on surfaces by using
 <br />
 </div>
 </details>
+<br />
 
 
 ## MSc Physics and AI
@@ -76,6 +78,7 @@ The most challenging part of this project was figuring out the capsule collision
 <br />
 </div>
 </details>
+<br />
 
 
 ## MSc Game Programming
@@ -95,6 +98,7 @@ The user is able to generate different size mazes and they are able to save thes
 <i><a href = "https://github.com/Akeilee/Game-Programming-1">Program without player progression</a></i><br /><br />
 </div>
 </details>
+<br />
 
 
 ## OpenGL Shaders
@@ -116,7 +120,8 @@ Numerous shaders were used such as:<br />
 <br />
 </div>
 </details>
-  
+<br />
+ 
   
 ## OpenGL Graphics
 <a href = "https://github.com/Akeilee/3223-Graphics-1"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/graphicsSpace.png" alt = "rasterisation" width = "300"></a>
@@ -129,6 +134,8 @@ This project shows the various graphical primitives and rasterisation techniques
 The coursework spec was to render a 2D space scene consisting of triangles, lines and points using C++ and OpenGL. There is usage of different depth buffer tests and alpha blending states.<br /><br />
 </div>
 </details>
+<br />
+
   
 <br /> 
 
@@ -146,7 +153,8 @@ Interactable buttons consists of the home, info, help and logo button. Clicking 
 As this was my first time learning and using Python I was unable to create a more detailed GUI. For future projects, I would like to add more interactable features.<br /><br />
 </div>
 </details>
-  
+<br />
+ 
   
 ## Website 
 <a href = "https://github.com/Akeilee/1026-Website"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/website.PNG" alt = "websiteScreenshot" width = "300"></a>
