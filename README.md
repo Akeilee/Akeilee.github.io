@@ -1,4 +1,3 @@
-<center>
 # Projects
 
 The projects below were created during my time at university. <br />
@@ -162,4 +161,3 @@ The assignment helped me develop my knowledge of the web, its client-site techno
 </div>  	
 </details>
 <br /> 
-</center>
