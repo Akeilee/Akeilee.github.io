@@ -1,8 +1,7 @@
 # Projects
 
 The projects below were created during my time at university. <br />
-Clicking on the picture will take you to its respective repository/playable game link. <br /> 
-Each project's repository details a list of features and keybinds used. <br />
+Clicking on the picture will take you to its respective repository/playable game link. Each project's repository details a list of features and keybinds used. 
 <br />
 
 
@@ -12,18 +11,18 @@ Each project's repository details a list of features and keybinds used. <br />
 
 <details>
 <summary>More details</summary>
-Fantasy Rhythm is a short 2D game that was made for my undergraduate games development module using Unity. The main concept is to battle monsters through a rhythm game. Inspiration for it came from different rhythm games such as Dance Dance Revolution and Project Diva. This assignment demonstrates game designing and the ability to use game engines.   
+Fantasy Rhythm is a short 2D game that was made for my undergraduate games development module using Unity. The main concept is to battle monsters through a rhythm game. Inspiration for it came from different rhythm games such as Dance Dance Revolution and Project Diva. This assignment demonstrates game designing and the ability to use game engines.<br />   
 
-The songs and styles chosen are aimed towards a cartoon theme as it creates an energetic and playful feel throughout the gameplay. Designs for the assets came from various video games and anime references.
+The songs and styles chosen are aimed towards a cartoon theme as it creates an energetic and playful feel throughout the gameplay. Designs for the assets came from various video games and anime references.<br />
 
-The gameplay is arrow key inputs, in time with the rhythm. There are three different keypresses: normal, hold and double keys. Maintaining a combo will increment the multiplier score.
+The gameplay is arrow key inputs, in time with the rhythm. There are three different keypresses: normal, hold and double keys. Maintaining a combo will increment the multiplier score.<br />
 
-Future features would include a levelling system where you would be able to unlock more cosmetics and songs, have better treasure box loots and an increase to the player's max hp.
+Future features would include a levelling system where you would be able to unlock more cosmetics and songs, have better treasure box loots and an increase to the player's max hp.<br />
 
-Listed below are the past prototypes for the game:
+Listed below are the past prototypes for the game:<br />
 [Initial Prototype](https://akeilee.github.io/Rhythm-Prototype-Initial/) <br />
 [Level 1 Prototype](https://akeilee.github.io/Rhythm-Prototype-Level/)
-<details>
+</details>
 <br />
 
 
