@@ -19,6 +19,17 @@
 	text-align: center;
 }
 
+h1:before, h1:after{
+    content: '';
+    border-top: 2px solid;
+    margin: 0 20px 0 0;
+    flex: 1 0 20px;
+}
+
+h2:after {
+    margin: 0 0 0 20px;
+}
+
 .main-content {
     max-width: 64rem;
     padding: 2rem 6rem;
@@ -31,6 +42,7 @@ body {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.5;
     color: #3b4246;
+	width: 300px;
 }
 
 a {
