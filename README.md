@@ -130,6 +130,7 @@ The coursework spec was to render a 2D space scene consisting of triangles, line
 </div>
 </details>
   
+<br /> 
 
 # Other Work  
 ## Python GUI
