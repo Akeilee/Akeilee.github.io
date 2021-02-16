@@ -10,7 +10,7 @@ Clicking on the picture will take you to its respective repository/playable game
 <a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" alt = "game" width = "300"></a>
 
 <details>
-<summary><strong>Click for more details<strong></summary>
+<summary><strong>Click for more details</strong></summary>
 <p>
 Fantasy Rhythm is a short 2D game that was made for my undergraduate games development module using Unity. The main concept is to battle monsters through a rhythm game. Inspiration for it came from different rhythm games such as Dance Dance Revolution and Project Diva. This assignment demonstrates game designing and the ability to use game engines.<br /><br />   
 
@@ -22,7 +22,7 @@ Future features would include a levelling system where you would be able to unlo
 
 Listed below are the past prototypes for the game:<br />
 <a href = "https://akeilee.github.io/Rhythm-Prototype-Initial/">Initial Prototype</a><br />
-<a href = "https://akeilee.github.io/Rhythm-Prototype-Level/">Level 1 Prototype</a><br /></p>
+<a href = "https://akeilee.github.io/Rhythm-Prototype-Level/">Level 1 Prototype</a><br /><br /></p>
 </details>
 
 ## MSc Game Graphics
@@ -44,7 +44,7 @@ These can be toggled with keybinds.<br /><br />
 
 Lighting is created with deferred rendering and a shadow map is used for real-time shadowing.<br /><br />
 
-In the future I would like to attempt to create reflections on surfaces by using texture mapping.<br /></p>
+In the future I would like to attempt to create reflections on surfaces by using texture mapping.<br /><br /></p>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5CmZtc3gN7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </details>
