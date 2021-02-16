@@ -5,7 +5,7 @@ The projects below were created during my time at university. Clicking on the pi
 
 
 ## Fantasy Rhythm
-<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/gameplayGif.gif" alt = "gameGif" width = "250"/></a>
+<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/gameplayGif.gif" width = "250"></a>
 
 Fantasy Rhythm is a short 2D game that was made for my undergraduate games development module using Unity. The main concept is to battle monsters through a rhythm game. Inspiration for it came from different rhythm games such as Dance Dance Revolution and Project Diva. This assignment demonstrates game designing and the ability to use game engines.   
 
@@ -27,7 +27,7 @@ The initial prototype has a short sample gameplay whilst the Level 1 prototype h
 ## MSc Game Graphics
 <a href = "https://github.com/Akeilee/Game-Graphics"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/textures.PNG" alt = "graphics" width = "250"></a>
 
-<iframe width="420" src="https://youtu.be/5CmZtc3gN7A"></iframe> 
+<iframe width="420" src="https://youtube/5CmZtc3gN7A"></iframe> 
 
 My game graphics coursework demonstrates a rendering of a graphical scene using techniques learned through my graphics module. The scene is in a cyberpunk style and made using C++ and OpenGL. It contains a large landscape with numerous graphical elements being rendered. The program starts with an automatic camera but it can be toggled off using '1'. 
 
@@ -48,7 +48,7 @@ In the future I would like to attempt to create reflections on surfaces by using
 ## MSc Physics and AI
 <a href = "https://github.com/Akeilee/Game-Tech"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/main.gif" alt = "physics" width = "250"></a>
 
-<iframe width="420" src="https://youtu.be/urHL-WkVB7w"></iframe> 
+<iframe width="420" src="https://youtube/urHL-WkVB7w"></iframe> 
 
 For this project I developed a simple game that shows off physics and AI knowledge that I have learned throughout my game technology module. The aim of the game is for the player to navigate around a map filled with obstacles, to try and reach the finish line. They will only lose if their health reaches zero. 
 
