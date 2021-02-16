@@ -5,7 +5,8 @@ The projects below were created during my time at university. Clicking on the pi
 
 
 ## Fantasy Rhythm
-<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/gameplayGif.gif" width = "250"></a>
+<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" width = "250"></a>
+
 
 Fantasy Rhythm is a short 2D game that was made for my undergraduate games development module using Unity. The main concept is to battle monsters through a rhythm game. Inspiration for it came from different rhythm games such as Dance Dance Revolution and Project Diva. This assignment demonstrates game designing and the ability to use game engines.   
 
