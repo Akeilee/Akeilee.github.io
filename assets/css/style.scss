@@ -40,20 +40,22 @@ details > summary {
   text-align: center;
   color: #45618f;
   padding: 5px;
-  width: 200px;
-  background-color: #edf1f5;
-  border: 2px solid #edf1f5;
+  font-size: 15px;
+  background-color: #f5f9fc;
+  border: 2px solid #f5f9fc;
   border-radius: 8px;
   box-shadow: 1px 1px 2px #a6a6a6;
   cursor: pointer;
 }
 
 details > div {
-  background-color: #edf1f5;
-  padding-left: 25px;
-  padding-right: 25px;
+  background-color: #f5f9fc;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   margin: 0px;
-  border: 2px solid #edf1f5;
+  border: 2px solid #f5f9fc;
   border-radius: 8px;
   box-shadow: 1px 1px 2px #a6a6a6;
 }
