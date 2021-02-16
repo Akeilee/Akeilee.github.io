@@ -19,17 +19,6 @@
 	text-align: center;
 }
 
-.main-content h1:before, .main-content h1:after{
-    content: '';
-    border-top: 2px solid;
-    margin: 0 20px 0 0;
-    flex: 1 0 20px;
-}
-
-.main-content h1:after {
-    margin: 0 0 0 20px;
-}
-
 .main-content {
     max-width: 64rem;
     padding: 2rem 0.5rem;
@@ -47,6 +36,13 @@ body {
 a {
     color: #2da5fd;
     text-decoration: none;
+}
+
+hr {
+	width: 75%;
+	text-align: center;
+	height: 2px;
+	color: #0686b8;
 }
 
 details > summary {

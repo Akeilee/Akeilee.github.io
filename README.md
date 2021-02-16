@@ -3,6 +3,7 @@
 The projects below were created during my time at university. <br />
 Clicking on the picture will take you to its respective repository/playable game link. Each project's repository details a list of features and keybinds used.<br />
 
+<hr>
 
 ## Fantasy Rhythm
 
@@ -131,7 +132,8 @@ The coursework spec was to render a 2D space scene consisting of triangles, line
 </details>  
 <br /> 
 
-# Other Work  
+# Other Work 
+<hr> 
 ## Python GUI
 <a href = "https://github.com/Akeilee/Rover-Gui"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/screenshot.jpg" alt = "roverScreenshot" width = "300"></a>
 
