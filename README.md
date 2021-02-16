@@ -1,34 +1,36 @@
 # Projects
 
-The projects below were created during my time at university. Clicking on the picture will take you to its respective repository/playable game link. Each project's repository details a list of features and keybinds used. 
+The projects below were created during my time at university. <br />
+Clicking on the picture will take you to its respective repository/playable game link. <br /> 
+Each project's repository details a list of features and keybinds used. <br />
 <br />
 
 
 ## Fantasy Rhythm
+
 <a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" alt = "game" width = "300"></a>
 
-
+<details>
+<summary>More details</summary>
 Fantasy Rhythm is a short 2D game that was made for my undergraduate games development module using Unity. The main concept is to battle monsters through a rhythm game. Inspiration for it came from different rhythm games such as Dance Dance Revolution and Project Diva. This assignment demonstrates game designing and the ability to use game engines.   
 
 The songs and styles chosen are aimed towards a cartoon theme as it creates an energetic and playful feel throughout the gameplay. Designs for the assets came from various video games and anime references.
-<a name = "design"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/assets.png" width = "300"></a> 
 
 The gameplay is arrow key inputs, in time with the rhythm. There are three different keypresses: normal, hold and double keys. Maintaining a combo will increment the multiplier score.
 
 Future features would include a levelling system where you would be able to unlock more cosmetics and songs, have better treasure box loots and an increase to the player's max hp.
 
 Listed below are the past prototypes for the game:
-[Initial Prototype](https://akeilee.github.io/Rhythm-Prototype-Initial/)
+[Initial Prototype](https://akeilee.github.io/Rhythm-Prototype-Initial/) <br />
 [Level 1 Prototype](https://akeilee.github.io/Rhythm-Prototype-Level/)
-
-The initial prototype has a short sample gameplay whilst the Level 1 prototype has a 'Normal' difficulty level implemented.
+<details>
 <br />
 
 
 ## MSc Game Graphics
 <a href = "https://github.com/Akeilee/Game-Graphics"><img src="https://github.com/Akeilee/Akeilee.github.io/blob/main/Images/textures.PNG" alt = "graphics" width = "300"></a>
 
-<iframe width="420" src="https://www.youtube.com/embed/5CmZtc3gN7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/5CmZtc3gN7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My game graphics coursework demonstrates a rendering of a graphical scene using techniques learned through my graphics module. The scene is in a cyberpunk style and made using C++ and OpenGL. It contains a large landscape with numerous graphical elements being rendered. The program starts with an automatic camera but it can be toggled off using '1'. 
 
@@ -49,7 +51,7 @@ In the future I would like to attempt to create reflections on surfaces by using
 ## MSc Physics and AI
 <a href = "https://github.com/Akeilee/Game-Tech"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/main.gif" alt = "physics" width = "300"></a>
 
-<iframe width="420" src="https://www.youtube.com/embed/urHL-WkVB7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/urHL-WkVB7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For this project I developed a simple game that shows off physics and AI knowledge that I have learned throughout my game technology module. The aim of the game is for the player to navigate around a map filled with obstacles, to try and reach the finish line. They will only lose if their health reaches zero. 
 
