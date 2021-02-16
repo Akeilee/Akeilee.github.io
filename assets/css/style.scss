@@ -19,14 +19,14 @@
 	text-align: center;
 }
 
-h1:before, h1:after{
+.main-content h1:before, .main-content h1:after{
     content: '';
     border-top: 2px solid;
     margin: 0 20px 0 0;
     flex: 1 0 20px;
 }
 
-h1:after {
+.main-content h1:after {
     margin: 0 0 0 20px;
 }
 
