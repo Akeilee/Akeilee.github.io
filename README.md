@@ -90,7 +90,7 @@ This fast game prototype was created using Unity with a deadline of a week. The 
 
 As this prototype was part of a team project, we each created a small game concentrating on areas that we would like to work on in the final game. I focused on the gameplay, physics and AI aspects.<br /><br />   
 
-In the future I would like to implement ray casting for the AI to detect coins close to it as currently, the method I am using of iterating through a list of coin positions is not accurate enough.<br /><br />
+In the future I would like to implement ray casting for the AI to detect coins close to it as currently the method used of iterating through a list of coin positions is not accurate enough.<br /><br />
 
 <i>Repository:</i><br />
 <a href = "https://github.com/Akeilee/Team-Project-Game-Prototype">Fast Game Prototype Repo</a><br /><br />
