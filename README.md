@@ -172,6 +172,8 @@ As this was my first time learning and using Python I was unable to create a mor
 </details>
   
   
+<!-- 
+
 ## Website 
 <a href = "https://github.com/Akeilee/1026-Website"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/website.PNG" alt = "websiteScreenshot" width = "350"></a>
 
@@ -185,4 +187,6 @@ It uses HTML, CSS and JavaScript.<br /> <br />
 The assignment helped me develop my knowledge of the web, its client-site technologies and principles of good web design.<br /><br />
 </div>  	
 </details>
-<br /> 
+<br />
+ 
+-->
