@@ -79,6 +79,28 @@ The most challenging part of this project was figuring out the capsule collision
 </details>
 
 
+## MSC Team Project - Fast Game Prototype
+<a href = "https://akeilee.github.io/Team-Project-Game-Prototype/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" alt = "game" width = "350"></a>
+
+<details>
+	<summary><strong>More details</strong></summary>
+<div><br />
+This fast game prototype was created using Unity with a deadline of a week. The design specifications was to make a dynamic obstacle course that has AI/multiplayer aspects. The aim of the game is to collect as many coins as possible within the time limit. Coins are randomly positioned every time the level starts by using a navigation mesh.
+<br /><br />   
+
+As this prototype was part of a team project, we each created a small game concentrating on areas that we would like to work on in the final game. I focused on the gameplay, physics and AI aspects.<br /><br />   
+
+In the future I would like to implement ray casting for the AI to detect coins close to it as currently, the method I am using of iterating through a list of coin positions is not accurate enough.<br /><br />
+
+<i>Repositories:</i><br />
+<a href = "https://github.com/Akeilee/Team-Project-Game-Prototype">Fast Game Prototype Repo</a><br />
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/OEXpDLsSErM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br />
+</div>
+</details>
+
+
 ## MSc Game Programming
 <a href = "https://github.com/Akeilee/Game-Programming-2"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/overallShort.PNG" alt = "maze" width = "350"></a>
 
