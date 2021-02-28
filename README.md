@@ -93,7 +93,7 @@ As this prototype was part of a team project, we each created a small game conce
 In the future I would like to implement ray casting for the AI to detect coins close to it as currently, the method I am using of iterating through a list of coin positions is not accurate enough.<br /><br />
 
 <i>Repositories:</i><br />
-<a href = "https://github.com/Akeilee/Team-Project-Game-Prototype">Fast Game Prototype Repo</a><br />
+<a href = "https://github.com/Akeilee/Team-Project-Game-Prototype">Fast Game Prototype Repo</a><br /><br />
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/OEXpDLsSErM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br />
