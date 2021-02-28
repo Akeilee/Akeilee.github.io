@@ -80,7 +80,7 @@ The most challenging part of this project was figuring out the capsule collision
 
 
 ## MSC Team Project - Fast Game Prototype
-<a href = "https://akeilee.github.io/Team-Project-Game-Prototype/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gameplayGif.gif" alt = "game" width = "350"></a>
+<a href = "https://akeilee.github.io/Team-Project-Game-Prototype/"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/gifgameplay.gif" alt = "game" width = "350"></a>
 
 <details>
 	<summary><strong>More details</strong></summary>
