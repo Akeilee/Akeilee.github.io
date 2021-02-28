@@ -165,7 +165,7 @@ The coursework spec was to render a 2D space scene consisting of triangles, line
 <div><br />
 This GUI was created during a two week sprint for the Engineering Society's entry into a tournament. The main sketch was drawn up by the design team in the society and I was then tasked with creating the home screen in python.<br /><br /> 
   
-Interactable buttons consists of the home, info, help and logo button. Clicking on them will only print to the console.<br /><br />
+Interactable buttons consists of the home, info, help and logo button. Clicking on them currently prints to the console.<br /><br />
 
 As this was my first time learning and using Python I was unable to create a more detailed GUI. For future projects, I would like to add more interactable features.<br /><br />
 </div>
