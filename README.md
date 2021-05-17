@@ -51,7 +51,7 @@ These can be toggled with keybinds.<br /><br />
 
 Lighting is created with deferred rendering and a shadow map is used for real-time shadowing.<br /><br />
 
-In the future I would like to attempt to create reflections on surfaces by using texture mapping.<br /><br />
+In the future I would like to attempt to create reflections on surfaces by using texture mapping..<br /><br />
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/fG-X_LIAbHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br />
