@@ -1,9 +1,34 @@
 # Projects
 
-The projects below were created during my time at university. <br />
 Clicking on the image will take you to its respective repository/playable game link. Each project's repository details a list of features and keybinds used.<br />
 
 <hr>
+
+## Accelerato
+
+<a href = "https://ldjam.com/events/ludum-dare/51/accelerato"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/acceleratoGameplay.gif" alt = "game" width = "350"></a>
+
+<details>
+	<summary><strong>More details</strong></summary>
+<div><br />
+Accelerato is a 2D platformer and rhythm game made for the Ludum Dare 51 game jam with the theme of 'Every 10 Seconds'. This was created by a team of three over the course of 72 hours and was made in Unity. I was in charge of the programming whilst my other two team members were working on the artwork, UI designs, game mechanics and audio. <br /><br />      
+
+The game is based on a mouse conductor whose goal is to collect as many cheeses and music sheets in the fastest time possible whilst also dodging obstacles. To go with the Ludum dare theme. the keyboard controls and background music changes every 10 seconds. <br /><br />
+
+Due to the limited time, we were unable to add an additional playable mouse or able to create more stages. We also did not have time to fully do a play test until after submission. Unfortunately we found out that the stage design and mechanics were a little difficult to play through. Other known issues are the physics and the object collisions that are a bit buggy. <br /><br />
+
+<i>Game Links :</i><br />
+<a href = "https://ldjam.com/events/ludum-dare/51/accelerato">Ludum Dare link</a><br />
+<a href = "https://stewthepoo.itch.io/accelerato">Itch.io link</a><br /><br />
+
+<i>Repositories:</i><br />
+<a href = "https://github.com/Akeilee/LDJam51-Accelerato">Accelerato Repo</a><br /><br />
+
+<i>Video made by one of our team member documenting our game devlopment:</i><br />
+<a href = "https://www.youtube.com/watch?v=MvEuYjAVWys">Youtube link</a><br />
+</div>
+</details>
+
 
 ## Fantasy Rhythm
 
@@ -157,6 +182,28 @@ The coursework spec was to render a 2D space scene consisting of triangles, line
 
 <hr>
 # Other Work  
+## Sweet Lies
+<a href = "https://ldjam.com/events/ludum-dare/48/sweet-lies"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/SweetLies.png" alt = "roverScreenshot" width = "350"></a>
+
+<details>
+	<summary><strong>More details</strong></summary>
+<div><br />
+This game was created for Ludum Dare 48 game jam with a group of six people over the course of 72 hours. The theme was 'Deeper and deeper'. Sweet Lies is a interactive mystery story game with the main character being a detective and the objective is to uncover who is behind the source of an illicit substance.<br /><br /> 
+  
+For this game I was tasked with creating the environment art and helping with the planning of game mechanics and story. The artwork was drawn up in photoshop.<br /><br />
+
+<i>Game Links :</i><br />
+<a href = "https://ldjam.com/events/ludum-dare/48/sweet-lies">Ludum Dare link</a><br />
+<a href = "https://fundee-squad.itch.io/sweet-lies">Itch.io link</a><br /><br />
+
+<i>Repositories:</i><br />
+<a href = "https://github.com/FundeeSquad/LDJam48">Sweet Lies Repo</a><br /><br />
+
+<i>Video made by one of our team member documenting our game devlopment:</i><br />
+<a href = "https://www.youtube.com/watch?v=qAQqXKjNeds">Youtube link</a><br />
+</div>
+</details>
+
 ## Python GUI
 <a href = "https://github.com/Akeilee/Rover-Gui"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/screenshot.jpg" alt = "roverScreenshot" width = "350"></a>
 
