@@ -1,8 +1,5 @@
-#Jane Lee
-
-<hr>
-
-#Projects
+# Jane Lee
+# Projects
 
 Clicking on the image will take you to its respective repository/playable game link. Each project's repository details a list of features and keybinds used.<br />
 
