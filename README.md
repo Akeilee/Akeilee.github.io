@@ -14,15 +14,15 @@ Clicking on the image will take you to its respective repository/playable game l
 <div><br />
 Accelerato is a 2D platformer and rhythm game made for the Ludum Dare 51 game jam with the theme of 'Every 10 Seconds'. This was created by a team of three over the course of 72 hours and was made in Unity. I was in charge of the programming whilst my other two team members were working on the artwork, UI designs, game mechanics and audio. <br /><br />      
 
-The game is based on a mouse music conductor whose goal is to collect as many cheeses and music sheets in the fastest time possible whilst also dodging obstacles. To go with the Ludum dare theme. the keyboard controls and background music changes every 10 seconds. <br /><br />
+The game is based on a rat music conductor whose goal is to collect as many cheeses and music sheets in the fastest time possible whilst also dodging obstacles. To go with the Ludum dare theme. the keyboard controls and background music changes every 10 seconds. <br /><br />
 
-Due to the limited time, we were unable to add an additional playable mouse or able to create more stages. We also did not have time to fully do a play test until after submission. Unfortunately we found out that the stage design and mechanics were a little difficult to play through. Other known issues are the physics and the object collisions that are a bit buggy. <br /><br />
+Due to the limited time, we were unable to add an additional playable rat or able to create more stages. We also did not have time to fully do a play test until after submission. Unfortunately, we found out that the stage design and mechanics were a little difficult to play through. Other known issues are the physics and the object collisions that are a bit buggy. However, after the game jam we had a team meeting to discuss what improvements we could have done for future reference. <br /><br />
 
 <i>Game Links :</i><br />
 <a href = "https://ldjam.com/events/ludum-dare/51/accelerato">Ludum Dare link</a><br />
 <a href = "https://stewthepoo.itch.io/accelerato">Itch.io link</a><br /><br />
 
-<i>Repositories:</i><br />
+<i>Repository:</i><br />
 <a href = "https://github.com/Akeilee/LDJam51-Accelerato">Accelerato Repo</a><br /><br />
 
 <i>Video made by one of our team member documenting our game devlopment:</i><br />
@@ -199,7 +199,7 @@ For this game I was tasked with creating the environment art and helping with th
 <a href = "https://ldjam.com/events/ludum-dare/48/sweet-lies">Ludum Dare link</a><br />
 <a href = "https://fundee-squad.itch.io/sweet-lies">Itch.io link</a><br /><br />
 
-<i>Repositories:</i><br />
+<i>Repository:</i><br />
 <a href = "https://github.com/FundeeSquad/LDJam48">Sweet Lies Repo</a><br /><br />
 
 <i>Video made by one of our team member documenting our game devlopment:</i><br />
