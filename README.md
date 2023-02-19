@@ -182,6 +182,7 @@ The coursework spec was to render a 2D space scene consisting of triangles, line
 
 <hr>
 # Other Work  
+
 ## Sweet Lies
 <a href = "https://ldjam.com/events/ludum-dare/48/sweet-lies"><img src="https://raw.githubusercontent.com/Akeilee/Akeilee.github.io/main/Images/SweetLies.png" alt = "roverScreenshot" width = "350"></a>
 
